@@ -247,7 +247,7 @@ select {
 }
 
 .item9 img {
-    margin-left: 25px;
+    margin-left: 22px;
 }
 .item9 select {
     width: 130px;
@@ -264,7 +264,7 @@ select {
 
 .row1 {
     background-color: white;
-    width: 1250px;
+    width: 1490px;
     height: 350px;
     margin-top: 19px;
     margin-left: 15px;
@@ -348,4 +348,93 @@ p {
 .row15 p {
     text-align: center;
     font-size: 14px;
+}
+
+.row2 {
+    background-color: white;
+    width: 1490px;
+    height: 350px;
+    margin-top: 19px;
+    margin-left: 15px;
+}
+
+.head {
+    height: 62px;
+    margin-left: 25px;
+}
+
+.head h2 {
+    padding-top: 20px;
+}
+
+.row3 {
+    background-color: white;
+    width: 1490px;
+    height: 300px;
+    margin-top: 23px;
+    margin-left: 13px;
+}
+
+.head {
+    height: 62px;
+    margin-left: 25px;
+}
+
+.head h2 {
+    padding-top: 20px;
+}
+
+.product {
+    width: 491px;
+    height: 642px;
+    /* background-color: pink; */
+    margin-left: 16px;
+    margin-top: 15px;
+    background-color: white;
+}
+
+.heading {
+    height: 60px;
+    display: flex;
+}
+
+.heading h2 {
+    margin-top: 17px;
+    margin-left: 20px;
+}
+
+.heading button {
+    width: 30px;
+    height: 30px;
+    margin-left: 47%;
+    margin-top: 16px;
+    background-color: rgb(126, 126, 226);
+    border-radius: 50%;
+    border: none;
+    
+}
+
+.box-container1 {
+    display: flex;
+    height: 45%;
+}
+
+.sub-box {
+    margin-left: 10px;
+    width: 233px;
+    height: 250px;
+    /* background-color: aqua; */
+    padding-left: 15px;
+    padding-top: 25px;
+    margin-right: 10px;
+    border: 0.5px solid rgb(79, 76, 76);
+    
+}
+
+span h3 {
+    text-align: center;
+}
+
+.box-container2 {
+    display: flex;
 }
